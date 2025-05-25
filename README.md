@@ -4,7 +4,12 @@
 
 ---
 
-## 📋 Instrucciones del Examen (basado en el video)
+## 📋 Contexto asignado para el Examen (basado en el Examen 2)
+
+Contexto: se requiere desarrollar una aplicación para gestionar (realizar operaciones CRUD y almacenar) vehículos de tipo automóvil, motocicleta y camión en una empresa de transporte. Todos los vehículos comparten atributos comunes como placa, marca, modelo y peso. Cada tipo de vehículo tiene una característica exclusiva: el automóvil incluye el atributo estilo, que indica si es sedán, SUV, etc.; la motocicleta tiene el atributo cilindraje del motor; y el camión posee el atributo capacidad de carga, que especifica la cantidad máxima de peso que puede transportar.
+
+
+## 📋 Instrucciones del Examen (basado en el Examen 2)
 
 1. Crear objeto automóvil.  
 2. Crear objeto motocicleta.  
